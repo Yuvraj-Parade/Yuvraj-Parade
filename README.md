@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yuvraj-Parade
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Fronted developement
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning web-devleopment
 
 <!---
 Yuvraj-Parade/Yuvraj-Parade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
