@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Yuvraj-Parade
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning java programming language
+- 🌱 I’m currently Working on Android Developement
+- Interest In : Android , Web Development
 
 <!---
 Yuvraj-Parade/Yuvraj-Parade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
