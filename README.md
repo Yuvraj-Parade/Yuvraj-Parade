@@ -1,5 +1,9 @@
+
+![MasterHead](https://github.com/Yuvraj-Parade/Yuvraj-Parade/blob/main/banner1.png?raw=true)
 <h1 align="center">Hi 👋, I'm Yuvraj Parade</h1>
 <h3 align="center">A passionate Developer</h3>
+
+<img align="right" width="400" src="https://github.com/Yuvraj-Parade/Yuvraj-Parade/blob/main/side.jpg?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvraj-parade&label=Profile%20views&color=0e75b6&style=flat" alt="yuvraj-parade" /> </p>
 
